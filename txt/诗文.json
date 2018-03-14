@@ -1,0 +1,702 @@
+[
+  {
+    "title": "类型",
+    "cont": [
+      {
+        "title": "唐诗三百",
+        "url": "http://so.gushiwen.org/gushi/tangshi.aspx"
+      },
+      {
+        "title": "古诗三百",
+        "url": "http://so.gushiwen.org/gushi/sanbai.aspx"
+      },
+      {
+        "title": "宋词三百",
+        "url": "http://so.gushiwen.org/gushi/songsan.aspx"
+      },
+      {
+        "title": "宋词精选",
+        "url": "http://so.gushiwen.org/gushi/songci.aspx"
+      },
+      {
+        "title": "古诗十九",
+        "url": "http://so.gushiwen.org/gushi/shijiu.aspx"
+      },
+      {
+        "title": "诗经",
+        "url": "http://so.gushiwen.org/gushi/shijing.aspx"
+      },
+      {
+        "title": "楚辞",
+        "url": "http://so.gushiwen.org/gushi/chuci.aspx"
+      },
+      {
+        "title": "乐府",
+        "url": "http://so.gushiwen.org/gushi/yuefu.aspx"
+      },
+      {
+        "title": "小学古诗",
+        "url": "http://so.gushiwen.org/gushi/xiaoxue.aspx"
+      },
+      {
+        "title": "小学文言",
+        "url": "http://so.gushiwen.org/wenyan/xiaowen.aspx"
+      },
+      {
+        "title": "初中古诗",
+        "url": "http://so.gushiwen.org/gushi/chuzhong.aspx"
+      },
+      {
+        "title": "初中文言",
+        "url": "http://so.gushiwen.org/wenyan/chuwen.aspx"
+      },
+      {
+        "title": "高中古诗",
+        "url": "http://so.gushiwen.org/gushi/gaozhong.aspx"
+      },
+      {
+        "title": "高中文言",
+        "url": "http://so.gushiwen.org/wenyan/gaowen.aspx"
+      },
+      {
+        "title": "写景",
+        "url": "http://so.gushiwen.org/gushi/xiejing.aspx"
+      },
+      {
+        "title": "咏物",
+        "url": "http://so.gushiwen.org/gushi/yongwu.aspx"
+      },
+      {
+        "title": "春天",
+        "url": "http://so.gushiwen.org/gushi/chuntian.aspx"
+      },
+      {
+        "title": "夏天",
+        "url": "http://so.gushiwen.org/gushi/xiatian.aspx"
+      },
+      {
+        "title": "秋天",
+        "url": "http://so.gushiwen.org/gushi/qiutian.aspx"
+      },
+      {
+        "title": "冬天",
+        "url": "http://so.gushiwen.org/gushi/dongtian.aspx"
+      },
+      {
+        "title": "写雨",
+        "url": "http://so.gushiwen.org/gushi/yu.aspx"
+      },
+      {
+        "title": "写雪",
+        "url": "http://so.gushiwen.org/gushi/xue.aspx"
+      },
+      {
+        "title": "写风",
+        "url": "http://so.gushiwen.org/gushi/feng.aspx"
+      },
+      {
+        "title": "写花",
+        "url": "http://so.gushiwen.org/gushi/hua.aspx"
+      },
+      {
+        "title": "梅花",
+        "url": "http://so.gushiwen.org/gushi/meihua.aspx"
+      },
+      {
+        "title": "荷花",
+        "url": "http://so.gushiwen.org/gushi/hehua.aspx"
+      },
+      {
+        "title": "菊花",
+        "url": "http://so.gushiwen.org/gushi/juhua.aspx"
+      },
+      {
+        "title": "柳树",
+        "url": "http://so.gushiwen.org/gushi/liushu.aspx"
+      },
+      {
+        "title": "月亮",
+        "url": "http://so.gushiwen.org/gushi/yueliang.aspx"
+      },
+      {
+        "title": "山水",
+        "url": "http://so.gushiwen.org/gushi/shanshui.aspx"
+      },
+      {
+        "title": "写山",
+        "url": "http://so.gushiwen.org/gushi/shan.aspx"
+      },
+      {
+        "title": "写水",
+        "url": "http://so.gushiwen.org/gushi/shui.aspx"
+      },
+      {
+        "title": "长江",
+        "url": "http://so.gushiwen.org/gushi/changjiang.aspx"
+      },
+      {
+        "title": "黄河",
+        "url": "http://so.gushiwen.org/gushi/huanghe.aspx"
+      },
+      {
+        "title": "儿童",
+        "url": "http://so.gushiwen.org/gushi/ertong.aspx"
+      },
+      {
+        "title": "写鸟",
+        "url": "http://so.gushiwen.org/gushi/niao.aspx"
+      },
+      {
+        "title": "写马",
+        "url": "http://so.gushiwen.org/gushi/ma.aspx"
+      },
+      {
+        "title": "田园",
+        "url": "http://so.gushiwen.org/gushi/tianyuan.aspx"
+      },
+      {
+        "title": "边塞",
+        "url": "http://so.gushiwen.org/gushi/biansai.aspx"
+      },
+      {
+        "title": "地名",
+        "url": "http://so.gushiwen.org/gushi/diming.aspx"
+      },
+      {
+        "title": "节日",
+        "url": "http://so.gushiwen.org/gushi/jieri.aspx"
+      },
+      {
+        "title": "春节",
+        "url": "http://so.gushiwen.org/gushi/chunjie.aspx"
+      },
+      {
+        "title": "元宵",
+        "url": "http://so.gushiwen.org/gushi/yuanxiao.aspx"
+      },
+      {
+        "title": "寒食",
+        "url": "http://so.gushiwen.org/gushi/hanshi.aspx"
+      },
+      {
+        "title": "清明",
+        "url": "http://so.gushiwen.org/gushi/qingming.aspx"
+      },
+      {
+        "title": "端午",
+        "url": "http://so.gushiwen.org/gushi/duanwu.aspx"
+      },
+      {
+        "title": "七夕",
+        "url": "http://so.gushiwen.org/gushi/qixi.aspx"
+      },
+      {
+        "title": "中秋",
+        "url": "http://so.gushiwen.org/gushi/zhongqiu.aspx"
+      },
+      {
+        "title": "重阳",
+        "url": "http://so.gushiwen.org/gushi/chongyang.aspx"
+      },
+      {
+        "title": "怀古",
+        "url": "http://so.gushiwen.org/gushi/huaigu.aspx"
+      },
+      {
+        "title": "抒情",
+        "url": "http://so.gushiwen.org/gushi/shuqing.aspx"
+      },
+      {
+        "title": "爱国",
+        "url": "http://so.gushiwen.org/gushi/aiguo.aspx"
+      },
+      {
+        "title": "离别",
+        "url": "http://so.gushiwen.org/gushi/libie.aspx"
+      },
+      {
+        "title": "送别",
+        "url": "http://so.gushiwen.org/gushi/songbie.aspx"
+      },
+      {
+        "title": "思乡",
+        "url": "http://so.gushiwen.org/gushi/sixiang.aspx"
+      },
+      {
+        "title": "思念",
+        "url": "http://so.gushiwen.org/gushi/sinian.aspx"
+      },
+      {
+        "title": "爱情",
+        "url": "http://so.gushiwen.org/gushi/aiqing.aspx"
+      },
+      {
+        "title": "励志",
+        "url": "http://so.gushiwen.org/gushi/lizhi.aspx"
+      },
+      {
+        "title": "哲理",
+        "url": "http://so.gushiwen.org/gushi/zheli.aspx"
+      },
+      {
+        "title": "闺怨",
+        "url": "http://so.gushiwen.org/gushi/guiyuan.aspx"
+      },
+      {
+        "title": "悼亡",
+        "url": "http://so.gushiwen.org/gushi/daowang.aspx"
+      },
+      {
+        "title": "写人",
+        "url": "http://so.gushiwen.org/gushi/xieren.aspx"
+      },
+      {
+        "title": "老师",
+        "url": "http://so.gushiwen.org/gushi/laoshi.aspx"
+      },
+      {
+        "title": "母亲",
+        "url": "http://so.gushiwen.org/gushi/muqin.aspx"
+      },
+      {
+        "title": "友情",
+        "url": "http://so.gushiwen.org/gushi/youqing.aspx"
+      },
+      {
+        "title": "战争",
+        "url": "http://so.gushiwen.org/gushi/zhanzheng.aspx"
+      },
+      {
+        "title": "读书",
+        "url": "http://so.gushiwen.org/gushi/dushu.aspx"
+      },
+      {
+        "title": "惜时",
+        "url": "http://so.gushiwen.org/gushi/xishi.aspx"
+      },
+      {
+        "title": "忧民",
+        "url": "http://so.gushiwen.org/gushi/youguo.aspx"
+      },
+      {
+        "title": "婉约",
+        "url": "http://so.gushiwen.org/gushi/wanyue.aspx"
+      },
+      {
+        "title": "豪放",
+        "url": "http://so.gushiwen.org/gushi/haofang.aspx"
+      },
+      {
+        "title": "民谣",
+        "url": "http://so.gushiwen.org/gushi/minyao.aspx"
+      },
+      {
+        "title": "词牌大全",
+        "url": "http://www.gushiwen.org/shiwen/cipai/"
+      },
+      {
+        "title": "古文观止",
+        "url": "http://so.gushiwen.org/wenyan/guanzhi.aspx"
+      }
+    ]
+  },
+  {
+    "title": "作者",
+    "cont": [
+      {
+        "title": "李白",
+        "url": "http://www.gushiwen.org/shiwen/default_2A247A1.aspx"
+      },
+      {
+        "title": "白居易",
+        "url": "http://www.gushiwen.org/shiwen/default_2A665A1.aspx"
+      },
+      {
+        "title": "杜甫",
+        "url": "http://www.gushiwen.org/shiwen/default_2A474A1.aspx"
+      },
+      {
+        "title": "苏轼",
+        "url": "http://www.gushiwen.org/shiwen/default_2A183A1.aspx"
+      },
+      {
+        "title": "辛弃疾",
+        "url": "http://www.gushiwen.org/shiwen/default_2A217A1.aspx"
+      },
+      {
+        "title": "李清照",
+        "url": "http://www.gushiwen.org/shiwen/default_2A536A1.aspx"
+      },
+      {
+        "title": "刘禹锡",
+        "url": "http://www.gushiwen.org/shiwen/default_2A197A1.aspx"
+      },
+      {
+        "title": "王维",
+        "url": "http://www.gushiwen.org/shiwen/default_2A515A1.aspx"
+      },
+      {
+        "title": "李商隐",
+        "url": "http://www.gushiwen.org/shiwen/default_2A204A1.aspx"
+      },
+      {
+        "title": "纳兰性德",
+        "url": "http://www.gushiwen.org/shiwen/default_2A188A1.aspx"
+      },
+      {
+        "title": "杜牧",
+        "url": "http://www.gushiwen.org/shiwen/default_2A211A1.aspx"
+      },
+      {
+        "title": "陆游",
+        "url": "http://www.gushiwen.org/shiwen/default_2A272A1.aspx"
+      },
+      {
+        "title": "陶渊明",
+        "url": "http://www.gushiwen.org/shiwen/default_2A645A1.aspx"
+      },
+      {
+        "title": "孟浩然",
+        "url": "http://www.gushiwen.org/shiwen/default_2A757A1.aspx"
+      },
+      {
+        "title": "元稹",
+        "url": "http://www.gushiwen.org/shiwen/default_2A18A1.aspx"
+      },
+      {
+        "title": "李煜",
+        "url": "http://www.gushiwen.org/shiwen/default_2A269A1.aspx"
+      },
+      {
+        "title": "柳宗元",
+        "url": "http://www.gushiwen.org/shiwen/default_2A646A1.aspx"
+      },
+      {
+        "title": "岑参",
+        "url": "http://www.gushiwen.org/shiwen/default_2A113A1.aspx"
+      },
+      {
+        "title": "王安石",
+        "url": "http://www.gushiwen.org/shiwen/default_2A405A1.aspx"
+      },
+      {
+        "title": "韩愈",
+        "url": "http://www.gushiwen.org/shiwen/default_2A682A1.aspx"
+      },
+      {
+        "title": "欧阳修",
+        "url": "http://www.gushiwen.org/shiwen/default_2A561A1.aspx"
+      },
+      {
+        "title": "齐己",
+        "url": "http://www.gushiwen.org/shiwen/default_2A2A1.aspx"
+      },
+      {
+        "title": "贾岛",
+        "url": "http://www.gushiwen.org/shiwen/default_2A491A1.aspx"
+      },
+      {
+        "title": "韦应物",
+        "url": "http://www.gushiwen.org/shiwen/default_2A564A1.aspx"
+      },
+      {
+        "title": "曹操",
+        "url": "http://www.gushiwen.org/shiwen/default_2A552A1.aspx"
+      },
+      {
+        "title": "刘长卿",
+        "url": "http://www.gushiwen.org/shiwen/default_2A104A1.aspx"
+      },
+      {
+        "title": "温庭筠",
+        "url": "http://www.gushiwen.org/shiwen/default_2A415A1.aspx"
+      },
+      {
+        "title": "柳永",
+        "url": "http://www.gushiwen.org/shiwen/default_2A535A1.aspx"
+      },
+      {
+        "title": "李贺",
+        "url": "http://www.gushiwen.org/shiwen/default_2A349A1.aspx"
+      },
+      {
+        "title": "张籍",
+        "url": "http://www.gushiwen.org/shiwen/default_2A390A1.aspx"
+      },
+      {
+        "title": "曹植",
+        "url": "http://www.gushiwen.org/shiwen/default_2A322A1.aspx"
+      },
+      {
+        "title": "王昌龄",
+        "url": "http://www.gushiwen.org/shiwen/default_2A437A1.aspx"
+      },
+      {
+        "title": "皎然",
+        "url": "http://www.gushiwen.org/shiwen/default_2A392A1.aspx"
+      },
+      {
+        "title": "孟郊",
+        "url": "http://www.gushiwen.org/shiwen/default_2A232A1.aspx"
+      },
+      {
+        "title": "贯休",
+        "url": "http://www.gushiwen.org/shiwen/default_2A694A1.aspx"
+      },
+      {
+        "title": "许浑",
+        "url": "http://www.gushiwen.org/shiwen/default_2A267A1.aspx"
+      },
+      {
+        "title": "罗隐",
+        "url": "http://www.gushiwen.org/shiwen/default_2A135A1.aspx"
+      },
+      {
+        "title": "陆龟蒙",
+        "url": "http://www.gushiwen.org/shiwen/default_2A335A1.aspx"
+      },
+      {
+        "title": "张祜",
+        "url": "http://www.gushiwen.org/shiwen/default_2A56A1.aspx"
+      },
+      {
+        "title": "杨万里",
+        "url": "http://www.gushiwen.org/shiwen/default_2A361A1.aspx"
+      },
+      {
+        "title": "王建",
+        "url": "http://www.gushiwen.org/shiwen/default_2A482A1.aspx"
+      },
+      {
+        "title": "韦庄",
+        "url": "http://www.gushiwen.org/shiwen/default_2A622A1.aspx"
+      },
+      {
+        "title": "诸葛亮",
+        "url": "http://www.gushiwen.org/shiwen/default_2A507A1.aspx"
+      },
+      {
+        "title": "范仲淹",
+        "url": "http://www.gushiwen.org/shiwen/default_2A510A1.aspx"
+      },
+      {
+        "title": "王勃",
+        "url": "http://www.gushiwen.org/shiwen/default_2A289A1.aspx"
+      },
+      {
+        "title": "姚合",
+        "url": "http://www.gushiwen.org/shiwen/default_2A477A1.aspx"
+      },
+      {
+        "title": "晏殊",
+        "url": "http://www.gushiwen.org/shiwen/default_2A432A1.aspx"
+      },
+      {
+        "title": "卢纶",
+        "url": "http://www.gushiwen.org/shiwen/default_2A583A1.aspx"
+      },
+      {
+        "title": "杜荀鹤",
+        "url": "http://www.gushiwen.org/shiwen/default_2A291A1.aspx"
+      },
+      {
+        "title": "周邦彦",
+        "url": "http://www.gushiwen.org/shiwen/default_2A164A1.aspx"
+      },
+      {
+        "title": "岳飞",
+        "url": "http://www.gushiwen.org/shiwen/default_2A630A1.aspx"
+      },
+      {
+        "title": "屈原",
+        "url": "http://www.gushiwen.org/shiwen/default_2A238A1.aspx"
+      },
+      {
+        "title": "钱起",
+        "url": "http://www.gushiwen.org/shiwen/default_2A495A1.aspx"
+      },
+      {
+        "title": "晏几道",
+        "url": "http://www.gushiwen.org/shiwen/default_2A588A1.aspx"
+      },
+      {
+        "title": "韩偓",
+        "url": "http://www.gushiwen.org/shiwen/default_2A130A1.aspx"
+      },
+      {
+        "title": "皮日休",
+        "url": "http://www.gushiwen.org/shiwen/default_2A604A1.aspx"
+      },
+      {
+        "title": "吴文英",
+        "url": "http://www.gushiwen.org/shiwen/default_2A670A1.aspx"
+      },
+      {
+        "title": "朱熹",
+        "url": "http://www.gushiwen.org/shiwen/default_2A459A1.aspx"
+      },
+      {
+        "title": "高适",
+        "url": "http://www.gushiwen.org/shiwen/default_2A227A1.aspx"
+      },
+      {
+        "title": "方干",
+        "url": "http://www.gushiwen.org/shiwen/default_2A1A1.aspx"
+      },
+      {
+        "title": "秦观",
+        "url": "http://www.gushiwen.org/shiwen/default_2A125A1.aspx"
+      },
+      {
+        "title": "李峤",
+        "url": "http://www.gushiwen.org/shiwen/default_2A521A1.aspx"
+      },
+      {
+        "title": "马致远",
+        "url": "http://www.gushiwen.org/shiwen/default_2A306A1.aspx"
+      },
+      {
+        "title": "赵嘏",
+        "url": "http://www.gushiwen.org/shiwen/default_2A10A1.aspx"
+      },
+      {
+        "title": "权德舆",
+        "url": "http://www.gushiwen.org/shiwen/default_2A603A1.aspx"
+      },
+      {
+        "title": "皇甫冉",
+        "url": "http://www.gushiwen.org/shiwen/default_2A397A1.aspx"
+      },
+      {
+        "title": "左丘明",
+        "url": "http://www.gushiwen.org/shiwen/default_2A384A1.aspx"
+      },
+      {
+        "title": "刘辰翁",
+        "url": "http://www.gushiwen.org/shiwen/default_2A329A1.aspx"
+      },
+      {
+        "title": "郑谷",
+        "url": "http://www.gushiwen.org/shiwen/default_2A434A1.aspx"
+      },
+      {
+        "title": "黄庭坚",
+        "url": "http://www.gushiwen.org/shiwen/default_2A268A1.aspx"
+      },
+      {
+        "title": "赵长卿",
+        "url": "http://www.gushiwen.org/shiwen/default_2A20A1.aspx"
+      },
+      {
+        "title": "贺铸",
+        "url": "http://www.gushiwen.org/shiwen/default_2A399A1.aspx"
+      },
+      {
+        "title": "张九龄",
+        "url": "http://www.gushiwen.org/shiwen/default_2A691A1.aspx"
+      },
+      {
+        "title": "戴叔伦",
+        "url": "http://www.gushiwen.org/shiwen/default_2A286A1.aspx"
+      },
+      {
+        "title": "卓文君",
+        "url": "http://www.gushiwen.org/shiwen/default_2A785A1.aspx"
+      },
+      {
+        "title": "周敦颐",
+        "url": "http://www.gushiwen.org/shiwen/default_2A713A1.aspx"
+      },
+      {
+        "title": "司马迁",
+        "url": "http://www.gushiwen.org/shiwen/default_2A608A1.aspx"
+      },
+      {
+        "title": "张说",
+        "url": "http://www.gushiwen.org/shiwen/default_2A149A1.aspx"
+      },
+      {
+        "title": "张炎",
+        "url": "http://www.gushiwen.org/shiwen/default_2A53A1.aspx"
+      },
+      {
+        "title": "程垓",
+        "url": "http://www.gushiwen.org/shiwen/default_2A486A1.aspx"
+      }
+    ]
+  },
+  {
+    "title": "朝代",
+    "cont": [
+      {
+        "title": "先秦",
+        "url": "http://www.gushiwen.org/shiwen/default_3A1A1.aspx"
+      },
+      {
+        "title": "两汉",
+        "url": "http://www.gushiwen.org/shiwen/default_3A2A1.aspx"
+      },
+      {
+        "title": "魏晋",
+        "url": "http://www.gushiwen.org/shiwen/default_3A3A1.aspx"
+      },
+      {
+        "title": "南北朝",
+        "url": "http://www.gushiwen.org/shiwen/default_3A4A1.aspx"
+      },
+      {
+        "title": "隋代",
+        "url": "http://www.gushiwen.org/shiwen/default_3A5A1.aspx"
+      },
+      {
+        "title": "唐代",
+        "url": "http://www.gushiwen.org/shiwen/default_3A6A1.aspx"
+      },
+      {
+        "title": "五代",
+        "url": "http://www.gushiwen.org/shiwen/default_3A7A1.aspx"
+      },
+      {
+        "title": "宋代",
+        "url": "http://www.gushiwen.org/shiwen/default_3A8A1.aspx"
+      },
+      {
+        "title": "金朝",
+        "url": "http://www.gushiwen.org/shiwen/default_3A9A1.aspx"
+      },
+      {
+        "title": "元代",
+        "url": "http://www.gushiwen.org/shiwen/default_3A10A1.aspx"
+      },
+      {
+        "title": "明代",
+        "url": "http://www.gushiwen.org/shiwen/default_3A11A1.aspx"
+      },
+      {
+        "title": "清代",
+        "url": "http://www.gushiwen.org/shiwen/default_3A12A1.aspx"
+      }
+    ]
+  },
+  {
+    "title": "形式",
+    "cont": [
+      {
+        "title": "诗",
+        "url": "http://www.gushiwen.org/shiwen/default_4A1A1.aspx"
+      },
+      {
+        "title": "词",
+        "url": "http://www.gushiwen.org/shiwen/default_4A2A1.aspx"
+      },
+      {
+        "title": "曲",
+        "url": "http://www.gushiwen.org/shiwen/default_4A3A1.aspx"
+      },
+      {
+        "title": "文言文",
+        "url": "http://www.gushiwen.org/shiwen/default_4A4A1.aspx"
+      }
+    ]
+  }
+]
